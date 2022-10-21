@@ -2,8 +2,8 @@
 <h3 align="center">:construction: Mechanical Engineer :construction: <br> Currently learning Python and MATLAB. <br></h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcarolalb&theme=dracula" alt="mcarolalb"/></a> </p>
-
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcarolalb&theme=dracula" alt="mcarolalb"/></a> </p>
+-->
 
 <h3 align="center">
 How to reach me:
